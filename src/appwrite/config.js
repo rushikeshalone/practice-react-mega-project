@@ -1,4 +1,5 @@
  import conf from '../conf/conf.js';
+ // eslint-disable-next-line no-unused-vars
  import { Client,ID ,Databases,Storage,Query } from 'appwrite';
 
  export class Service{
